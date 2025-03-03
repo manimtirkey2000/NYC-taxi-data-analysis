@@ -90,11 +90,7 @@ The dataset includes:
    git clone https://github.com/your-repo-name.git
    cd your-repo-name
    ```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the analysis:
+2. Run the analysis:
 ```bash
 python app.py
 ```
