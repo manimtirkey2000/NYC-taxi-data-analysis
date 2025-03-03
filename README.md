@@ -98,3 +98,11 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+## References
+1. [NYC Taxi Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+2. [Machine Learning Techniques](https://towardsdatascience.com/)
+3. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+
+
+
+This project contributes to urban planning and data science by uncovering key insights into NYC's taxi system.
