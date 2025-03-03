@@ -96,5 +96,5 @@ pip install -r requirements.txt
 ```
 3. Run the analysis:
 ```bash
-python analysis.py
+python app.py
 ```
